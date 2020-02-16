@@ -1,5 +1,5 @@
 ---
-title: Kombucha brewing notes
+title: Kombucha log
 timezone: Europe/Dublin
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: Kombucha brewing notes
+description: Kombucha log
 baseurl: "/coldone.github.io"
 url: https://jakubstas.github.io/coldone.github.io/
 color: "#f2f2f2"
